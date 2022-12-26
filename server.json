@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-22T17:45:05.332Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-12-21T23:45:05.332Z"
+    },
+    {
+      "description": "Mouse",
+      "category": "Acessório Eletrônico",
+      "price": 400,
+      "type": "outcome",
+      "createdAt": "2022-12-26T17:10:53.483Z",
+      "id": 3
+    },
+    {
+      "description": "Heineken 12 latas",
+      "category": "Bebida",
+      "price": 45,
+      "type": "outcome",
+      "createdAt": "2022-12-26T17:12:21.582Z",
+      "id": 4
+    }
+  ]
+}
